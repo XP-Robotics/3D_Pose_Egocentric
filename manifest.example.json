@@ -1,0 +1,15 @@
+{
+  "video_uri": "/abs/path/to/your/video.mov",
+  "objects": [
+    "black tool box",
+    "screwdriver",
+    "pliers",
+    "pressure gauge",
+    "blue tool",
+    "power adapter"
+  ],
+  "start": 0.0,
+  "end": null,
+  "fps": 15,
+  "objects_source": "manual"
+}
